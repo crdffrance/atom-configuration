@@ -1,0 +1,67 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/tmp/d-116116-6953-1liv0bz/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/tmp/d-116116-6953-1liv0bz/package.tgz",
+        "spec": "/tmp/d-116116-6953-1liv0bz/package.tgz",
+        "type": "local"
+      },
+      "/tmp/apm-install-dir-116116-6953-rqqnk2"
+    ]
+  ],
+  "_from": "../d-116116-6953-1liv0bz/package.tgz",
+  "_id": "accents-ui@1.2.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/accents-ui",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/tmp/d-116116-6953-1liv0bz/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/tmp/d-116116-6953-1liv0bz/package.tgz",
+    "spec": "/tmp/d-116116-6953-1liv0bz/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-116116-6953-1liv0bz/package.tgz",
+  "_shasum": "222ea6e8641919c3fffe8421d570ad3561723972",
+  "_shrinkwrap": null,
+  "_spec": "/tmp/d-116116-6953-1liv0bz/package.tgz",
+  "_where": "/tmp/apm-install-dir-116116-6953-rqqnk2",
+  "bugs": {
+    "url": "https://github.com/kieranju/accents-ui/issues"
+  },
+  "dependencies": {},
+  "description": "A subtle dark UI theme with colour accents.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.40.0"
+  },
+  "homepage": "https://github.com/kieranju/accents-ui#readme",
+  "keywords": [
+    "accent",
+    "dark",
+    "ui",
+    "configurable"
+  ],
+  "license": "MIT",
+  "main": "lib/accents-ui",
+  "name": "accents-ui",
+  "optionalDependencies": {},
+  "readme": "## Accents UI theme\n\nThis theme is meant to provide a subtle interface for distraction free coding, with coloured accents (that can be configured). Popular/Useful packages get some attention too, and are adjusted visually to work with the theme!\n\nYou can change the accent colour in the theme's settings.  \nSome colours that work great:  \n\n*Crimson*: `#d2372b` `(210,55,43)`  \n*Shamrock*: `#2ad574` `(42,213,116)`  \n*Maroon*: `#d43167` `(212,49,103)`  \n*Azure*: `#1e91f0` `(30,145,240)`  \n\n*Note: Accent colour changes won't take effect until you reload atom `[View] -> [Reload]`*\n\n![showcase-01](https://raw.githubusercontent.com/kieranju/accents-ui/gh-pages/img/showcase-01.jpg)\n![showcase-02](https://raw.githubusercontent.com/kieranju/accents-ui/gh-pages/img/showcase-02.jpg)\n\n```\nFeel free to submit issues, or request style changes/additions on github!\nInspired by Brogrammer UI, which I've been a fond user of in Sublime and Atom.\n```\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kieranju/accents-ui.git"
+  },
+  "theme": "ui",
+  "version": "1.2.0"
+}
