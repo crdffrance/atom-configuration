@@ -7,6 +7,7 @@
     ]
   editor:
     showIndentGuide: true
+    softWrap: true
   "exception-reporting":
     userId: "26f04c35-9e73-c063-b33e-f64e17fd026d"
   "markdown-preview":
