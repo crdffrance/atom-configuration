@@ -1,4 +1,7 @@
 "*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "c80382c5-dc54-4741-b85a-80ef742374be"
   core:
     telemetryConsent: "no"
     themes: [

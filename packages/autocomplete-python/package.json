@@ -2,41 +2,40 @@
   "_args": [
     [
       {
-        "raw": "/tmp/d-116117-6505-jdi86/package.tgz",
+        "raw": "/tmp/d-1161127-3996-d6w2dx/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/tmp/d-116117-6505-jdi86/package.tgz",
-        "spec": "/tmp/d-116117-6505-jdi86/package.tgz",
+        "rawSpec": "/tmp/d-1161127-3996-d6w2dx/package.tgz",
+        "spec": "/tmp/d-1161127-3996-d6w2dx/package.tgz",
         "type": "local"
       },
-      "/tmp/apm-install-dir-116117-6505-1al9mzs"
+      "/tmp/apm-install-dir-1161127-3996-braarx"
     ]
   ],
-  "_from": "../d-116117-6505-jdi86/package.tgz",
-  "_id": "autocomplete-python@1.8.20",
+  "_from": "../d-1161127-3996-d6w2dx/package.tgz",
+  "_id": "autocomplete-python@1.8.24",
   "_inCache": true,
   "_installable": true,
   "_location": "/autocomplete-python",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/tmp/d-116117-6505-jdi86/package.tgz",
+    "raw": "/tmp/d-1161127-3996-d6w2dx/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/tmp/d-116117-6505-jdi86/package.tgz",
-    "spec": "/tmp/d-116117-6505-jdi86/package.tgz",
+    "rawSpec": "/tmp/d-1161127-3996-d6w2dx/package.tgz",
+    "spec": "/tmp/d-1161127-3996-d6w2dx/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-116117-6505-jdi86/package.tgz",
-  "_shasum": "cd6f71d7000072b2840a2fd97a6a6a5d274ef5ab",
+  "_resolved": "file:../d-1161127-3996-d6w2dx/package.tgz",
+  "_shasum": "7b3985627fc00a772e4c60c3d433ba387fa4a60d",
   "_shrinkwrap": null,
-  "_spec": "/tmp/d-116117-6505-jdi86/package.tgz",
-  "_where": "/tmp/apm-install-dir-116117-6505-1al9mzs",
-  "activationHooks": [],
+  "_spec": "/tmp/d-1161127-3996-d6w2dx/package.tgz",
+  "_where": "/tmp/apm-install-dir-1161127-3996-braarx",
   "bugs": {
     "url": "https://github.com/autocomplete-python/autocomplete-python/issues"
   },
@@ -61,7 +60,7 @@
     "atom-slick": "^2.0.0",
     "atom-space-pen-views": "~2.1.0",
     "fuzzaldrin-plus": "^0.3.1",
-    "kite-installer": "^0.5.0",
+    "kite-installer": "0.7.0",
     "mixpanel": "^0.5.0",
     "selector-kit": "^0.1",
     "space-pen": "^5.1.2",
@@ -101,5 +100,5 @@
     "type": "git",
     "url": "git+https://github.com/autocomplete-python/autocomplete-python.git"
   },
-  "version": "1.8.20"
+  "version": "1.8.24"
 }
