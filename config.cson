@@ -13,6 +13,12 @@
     softWrap: true
   "exception-reporting":
     userId: "26f04c35-9e73-c063-b33e-f64e17fd026d"
+  "git-plus":
+    general:
+      _analyticsUserId: "71c34cb9-a221-4895-adcb-98406ef034a2"
+  linter:
+    showErrorPanel: false
+  "linter-pylint": {}
   "markdown-preview":
     useGitHubStyle: true
   minimap:

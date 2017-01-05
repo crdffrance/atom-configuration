@@ -1,5 +1,31 @@
 ## Changelog
 
+### 7.0.4
+- Minor changes
+
+### 7.0.3
+- More fixes for [#582](https://github.com/akonwi/git-plus/issues/582)
+
+### 7.0.2
+- Fixes config issue where none of the non-general configs were being used
+
+### 7.0.1
+- Fixes [#582](https://github.com/akonwi/git-plus/issues/582)
+
+### 7.0.0
+- Refactored package settings. This update will reset your configurations for this package as the config options have been refactored.
+- Add analytics to track which features are being used.
+
+### 6.4.0
+- Introducing Custom Commands. This is an experimental feature to allow users to define their own commonly used commands. Read about [them](https://github.com/akonwi/git-plus#experimental-features)
+
+### 6.3.0
+- Fixes [#395](https://github.com/akonwi/git-plus/issues/395)
+- Fixes [#408](https://github.com/akonwi/git-plus/issues/408)
+
+### 6.2.0
+- Introduce new setting 'Stage Files Beta', to combine the 'Stage Files' and 'Unstage Files' commands into a single command.
+
 ### 6.0.2
 - Fixes [#579](https://github.com/akonwi/git-plus/issues/579)
 
