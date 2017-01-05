@@ -18,7 +18,9 @@
       _analyticsUserId: "71c34cb9-a221-4895-adcb-98406ef034a2"
   linter:
     showErrorPanel: false
-  "linter-pylint": {}
+  "linter-pylint":
+    executable: "pylint3"
+  "linter-tidy": {}
   "markdown-preview":
     useGitHubStyle: true
   minimap:
