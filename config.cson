@@ -2,6 +2,7 @@
   "atom-beautify":
     general:
       _analyticsUserId: "c80382c5-dc54-4741-b85a-80ef742374be"
+  "autocomplete-python": {}
   core:
     telemetryConsent: "no"
     themes: [
@@ -10,6 +11,7 @@
     ]
   editor:
     showIndentGuide: true
+    showInvisibles: true
     softWrap: true
   "exception-reporting":
     userId: "26f04c35-9e73-c063-b33e-f64e17fd026d"
@@ -29,3 +31,12 @@
     compactView: true
   welcome:
     showOnStartup: false
+".js.regexp.replacement.source":
+  editor:
+    tabLength: 4
+".js.regexp.source":
+  editor:
+    tabLength: 4
+".js.source":
+  editor:
+    tabLength: 4

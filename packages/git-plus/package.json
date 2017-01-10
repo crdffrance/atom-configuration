@@ -2,40 +2,40 @@
   "_args": [
     [
       {
-        "raw": "/tmp/d-1161130-17128-1rwk0pm/package.tgz",
+        "raw": "/tmp/d-117010-26466-hxyref/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/tmp/d-1161130-17128-1rwk0pm/package.tgz",
-        "spec": "/tmp/d-1161130-17128-1rwk0pm/package.tgz",
+        "rawSpec": "/tmp/d-117010-26466-hxyref/package.tgz",
+        "spec": "/tmp/d-117010-26466-hxyref/package.tgz",
         "type": "local"
       },
-      "/tmp/apm-install-dir-1161130-17128-3475ju"
+      "/tmp/apm-install-dir-117010-26466-1ekldwa"
     ]
   ],
-  "_from": "../d-1161130-17128-1rwk0pm/package.tgz",
-  "_id": "git-plus@7.0.4",
+  "_from": "../d-117010-26466-hxyref/package.tgz",
+  "_id": "git-plus@7.0.5",
   "_inCache": true,
   "_installable": true,
   "_location": "/git-plus",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/tmp/d-1161130-17128-1rwk0pm/package.tgz",
+    "raw": "/tmp/d-117010-26466-hxyref/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/tmp/d-1161130-17128-1rwk0pm/package.tgz",
-    "spec": "/tmp/d-1161130-17128-1rwk0pm/package.tgz",
+    "rawSpec": "/tmp/d-117010-26466-hxyref/package.tgz",
+    "spec": "/tmp/d-117010-26466-hxyref/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-1161130-17128-1rwk0pm/package.tgz",
-  "_shasum": "9095c035ca03cc7886c1a09dabf4646dcf874d03",
+  "_resolved": "file:../d-117010-26466-hxyref/package.tgz",
+  "_shasum": "f3ceecc5f4c3c167eecdfcd2d89a9563a7a5c592",
   "_shrinkwrap": null,
-  "_spec": "/tmp/d-1161130-17128-1rwk0pm/package.tgz",
-  "_where": "/tmp/apm-install-dir-1161130-17128-3475ju",
+  "_spec": "/tmp/d-117010-26466-hxyref/package.tgz",
+  "_where": "/tmp/apm-install-dir-117010-26466-1ekldwa",
   "bugs": {
     "url": "https://github.com/akonwi/git-plus/issues"
   },
@@ -91,5 +91,5 @@
     "type": "git",
     "url": "git+https://github.com/akonwi/git-plus.git"
   },
-  "version": "7.0.4"
+  "version": "7.0.5"
 }
