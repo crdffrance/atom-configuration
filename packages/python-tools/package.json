@@ -2,40 +2,40 @@
   "_args": [
     [
       {
-        "raw": "/tmp/d-116116-5781-ku1640/package.tgz",
+        "raw": "/tmp/d-117013-4406-1o9mj4v/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/tmp/d-116116-5781-ku1640/package.tgz",
-        "spec": "/tmp/d-116116-5781-ku1640/package.tgz",
+        "rawSpec": "/tmp/d-117013-4406-1o9mj4v/package.tgz",
+        "spec": "/tmp/d-117013-4406-1o9mj4v/package.tgz",
         "type": "local"
       },
-      "/tmp/apm-install-dir-116116-5781-unx454"
+      "/tmp/apm-install-dir-117013-4406-3ietl1"
     ]
   ],
-  "_from": "../d-116116-5781-ku1640/package.tgz",
-  "_id": "python-tools@0.6.8",
+  "_from": "../d-117013-4406-1o9mj4v/package.tgz",
+  "_id": "python-tools@0.6.9",
   "_inCache": true,
   "_installable": true,
   "_location": "/python-tools",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/tmp/d-116116-5781-ku1640/package.tgz",
+    "raw": "/tmp/d-117013-4406-1o9mj4v/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/tmp/d-116116-5781-ku1640/package.tgz",
-    "spec": "/tmp/d-116116-5781-ku1640/package.tgz",
+    "rawSpec": "/tmp/d-117013-4406-1o9mj4v/package.tgz",
+    "spec": "/tmp/d-117013-4406-1o9mj4v/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-116116-5781-ku1640/package.tgz",
-  "_shasum": "40ebdebd2327039652bd1414b73428334d4045d0",
+  "_resolved": "file:../d-117013-4406-1o9mj4v/package.tgz",
+  "_shasum": "dba6e2a8889971140b20f143c8535e6b054a1df0",
   "_shrinkwrap": null,
-  "_spec": "/tmp/d-116116-5781-ku1640/package.tgz",
-  "_where": "/tmp/apm-install-dir-116116-5781-unx454",
+  "_spec": "/tmp/d-117013-4406-1o9mj4v/package.tgz",
+  "_where": "/tmp/apm-install-dir-117013-4406-3ietl1",
   "activationCommands": {},
   "bugs": {
     "url": "https://github.com/MichaelAquilina/python-tools/issues"
@@ -63,5 +63,5 @@
     "type": "git",
     "url": "git+https://github.com/MichaelAquilina/python-tools.git"
   },
-  "version": "0.6.8"
+  "version": "0.6.9"
 }

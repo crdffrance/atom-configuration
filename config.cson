@@ -31,6 +31,9 @@
     compactView: true
   welcome:
     showOnStartup: false
+".basic.html.text":
+  editor:
+    tabLength: 4
 ".js.regexp.replacement.source":
   editor:
     tabLength: 4

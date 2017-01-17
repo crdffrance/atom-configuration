@@ -1,8 +1,19 @@
 ## Changelog
 
+### 7.1
+- Fixes [#573](https://github.com/akonwi/git-plus/issues/573)
+
+### 7.0.7
+- [[#587]](https://github.com/akonwi/git-plus/issues/587) - Refactoring around tree-view context actions
+
+### 7.0.6
+- [[#584]](https://github.com/akonwi/git-plus/issues/584)-The COMMIT_EDITMSG file is kept after commit attempts so in case of failure the previously typed message is easily retrievable
+- Fixes [#591](https://github.com/akonwi/git-plus/issues/591)
+- Fixes [#593](https://github.com/akonwi/git-plus/issues/593)
+
 ### 7.0.5
-- Fixes [#587](https://github.com/akonwi/git-plus/issues/587)
-- Fixes [#584](https://github.com/akonwi/git-plus/issues/584)
+- [[#587]](https://github.com/akonwi/git-plus/issues/587) Gracefully handle unavailable repo error
+- Fixes [#578](https://github.com/akonwi/git-plus/issues/578)
 
 ### 7.0.4
 - Minor changes
